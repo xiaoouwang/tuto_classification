@@ -1,4 +1,4 @@
-# Classification de textes : de TF-IDF à word embeddings en passant par des features expertes
+# Classification de textes : du TF-IDF aux word embeddings en passant par des features expertes
 
 ## docs
 
